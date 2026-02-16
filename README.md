@@ -38,13 +38,13 @@ A fast-paced 3-lane vertical scrolling car racing game for Flipper Zero.
 
 Requires ufbt (https://pypi.org/project/ufbt/):
 
-    ufbt build
+ufbt build
 
 ## Installation
 
 Copy race_game.fap to your Flipper Zero SD card:
 
-    SD Card/apps/Games/race_game.fap
+SD Card/apps/Games/race_game.fap
 
 Or install from the **Flipper Apps Catalog** (coming soon).
 
